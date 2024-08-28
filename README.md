@@ -1,2 +1,2 @@
 # flask_backend
-Flask backend for mobile application
+Flask backend for a mobile application
